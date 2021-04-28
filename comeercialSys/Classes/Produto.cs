@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace comeercialSys.Classes
 {
-    class Produto
+    public class Produto
     {
 
         //atributos
